@@ -1,6 +1,6 @@
 {
- "genere_le": "2026-09-06T18:00:13.867954+00:00",
- "nombre": 21,
+ "genere_le": "2026-09-06T18:01:17.185200+00:00",
+ "nombre": 20,
  "fichiers": [
   {
    "nom": "interieurs.json",
@@ -101,11 +101,6 @@
    "nom": "props_cat79.json",
    "taille": 129735,
    "empreinte": "5706A7F40FC870E479CCC320B2FE32E2C5DFC222DD3A0B210DF4AD570D6071CE"
-  },
-  {
-   "nom": "test.json",
-   "taille": 3,
-   "empreinte": "CA3D163BAB055381827226140568F3BEF7EAAC187CEBD76878E0B63E9E442356"
   }
  ]
 }

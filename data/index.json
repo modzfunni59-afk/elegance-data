@@ -1,106 +1,106 @@
-﻿{
-    "genere_le":  "2026-09-06T17:36:15.0006680Z",
-    "nombre":  20,
-    "fichiers":  [
-                     {
-                         "nom":  "interieurs.json",
-                         "taille":  12112,
-                         "empreinte":  "0EE2352689D44B2202B63144199B867A1428ECCE566157D47327298CC5EBB3A2"
-                     },
-                     {
-                         "nom":  "props_cat10.json",
-                         "taille":  473164,
-                         "empreinte":  "77CD882E3A08A0ED4CEFD5A979CAB1DD9CD647D1812742AAF12DB3EAEB796BE0"
-                     },
-                     {
-                         "nom":  "props_cat13.json",
-                         "taille":  71061,
-                         "empreinte":  "0830095EF08DC6CB8DB9AC1DC6A49C7833FA9DA8C03EB441F179E0A8494EA18B"
-                     },
-                     {
-                         "nom":  "props_cat14.json",
-                         "taille":  411370,
-                         "empreinte":  "410FBA334DF92F6767B9E62D02CDD5908E2B8F96DBE0DC282649D940FCEFB0E4"
-                     },
-                     {
-                         "nom":  "props_cat15.json",
-                         "taille":  139951,
-                         "empreinte":  "B126B26910DD4A39F184507230ED07151250FBCF1BF984B0B4F85CA51C71846E"
-                     },
-                     {
-                         "nom":  "props_cat2.json",
-                         "taille":  195520,
-                         "empreinte":  "CE193577802AC6C027D4D0DC31C4261989151DFBB0A208F0AA833C7746CD98DF"
-                     },
-                     {
-                         "nom":  "props_cat23.json",
-                         "taille":  2110578,
-                         "empreinte":  "FF7DE1965A1255AC6C43695B61099B55981307618661FF020A01B8ED4F4E3EA6"
-                     },
-                     {
-                         "nom":  "props_cat23-p80.json",
-                         "taille":  897123,
-                         "empreinte":  "F483EDCC7DC78393C55C1062CE70DF045C93E56345C6CB700373DC3C329260CC"
-                     },
-                     {
-                         "nom":  "props_cat3.json",
-                         "taille":  174591,
-                         "empreinte":  "350FD444D20D9AEE4D51AE6436D10A62C92436C03025F49AA46CC11FF8F90FB2"
-                     },
-                     {
-                         "nom":  "props_cat4.json",
-                         "taille":  1861103,
-                         "empreinte":  "6527E6CEE08EB467864696C3EAF1517204F2D1E931468CF28022EBBD0F574434"
-                     },
-                     {
-                         "nom":  "props_cat40.json",
-                         "taille":  442792,
-                         "empreinte":  "F4797A82CCFA3C7FDEF7ECDA36C296CC46F3C0545783D47FEDD964DA04D9D883"
-                     },
-                     {
-                         "nom":  "props_cat41.json",
-                         "taille":  446937,
-                         "empreinte":  "AEFB71D4E2166D5EDBA7AEE3070240C816975E980C1EC48C6DB9742D08DAF248"
-                     },
-                     {
-                         "nom":  "props_cat52.json",
-                         "taille":  466119,
-                         "empreinte":  "B6526ED21D74C9716D0B2710DD6E733B85039527BB1EA61792EFCE730E39E9D2"
-                     },
-                     {
-                         "nom":  "props_cat57.json",
-                         "taille":  227650,
-                         "empreinte":  "63D79A29CA8D04BCBCEB4FD02882B15449295FFA6F96709DB190A3900773C7F6"
-                     },
-                     {
-                         "nom":  "props_cat6.json",
-                         "taille":  1288356,
-                         "empreinte":  "0A11A814576BF42E027F54A52840A34499C76B0871953C63BBDAF776EAF0C09A"
-                     },
-                     {
-                         "nom":  "props_cat66.json",
-                         "taille":  192959,
-                         "empreinte":  "E4CDC4A0441B4F679942B50C02BF6A9F99EC78E93292F4D3DBD8A323D00A61F0"
-                     },
-                     {
-                         "nom":  "props_cat7.json",
-                         "taille":  470411,
-                         "empreinte":  "8D4A570EBAC719A6F61FEAAB82CCB3949B2FC08CAC0BB667CE09FFA3650F6DFE"
-                     },
-                     {
-                         "nom":  "props_cat73.json",
-                         "taille":  207181,
-                         "empreinte":  "447E452DD649CA57F4B853F96D106F9808A11B8D3542F29F14671FA17FF2FE11"
-                     },
-                     {
-                         "nom":  "props_cat75.json",
-                         "taille":  392671,
-                         "empreinte":  "4E8A16D5C38501804C6D477D24609E0B15A3B5FF3826AEDF0291461F07FF7F0A"
-                     },
-                     {
-                         "nom":  "props_cat79.json",
-                         "taille":  129735,
-                         "empreinte":  "5706A7F40FC870E479CCC320B2FE32E2C5DFC222DD3A0B210DF4AD570D6071CE"
-                     }
-                 ]
+{
+ "genere_le": "2026-09-06T17:54:21.832608+00:00",
+ "nombre": 20,
+ "fichiers": [
+  {
+   "nom": "interieurs.json",
+   "taille": 12112,
+   "empreinte": "0EE2352689D44B2202B63144199B867A1428ECCE566157D47327298CC5EBB3A2"
+  },
+  {
+   "nom": "props_cat10.json",
+   "taille": 473164,
+   "empreinte": "77CD882E3A08A0ED4CEFD5A979CAB1DD9CD647D1812742AAF12DB3EAEB796BE0"
+  },
+  {
+   "nom": "props_cat13.json",
+   "taille": 71061,
+   "empreinte": "0830095EF08DC6CB8DB9AC1DC6A49C7833FA9DA8C03EB441F179E0A8494EA18B"
+  },
+  {
+   "nom": "props_cat14.json",
+   "taille": 411370,
+   "empreinte": "410FBA334DF92F6767B9E62D02CDD5908E2B8F96DBE0DC282649D940FCEFB0E4"
+  },
+  {
+   "nom": "props_cat15.json",
+   "taille": 139951,
+   "empreinte": "B126B26910DD4A39F184507230ED07151250FBCF1BF984B0B4F85CA51C71846E"
+  },
+  {
+   "nom": "props_cat2.json",
+   "taille": 195520,
+   "empreinte": "CE193577802AC6C027D4D0DC31C4261989151DFBB0A208F0AA833C7746CD98DF"
+  },
+  {
+   "nom": "props_cat23-p80.json",
+   "taille": 897123,
+   "empreinte": "F483EDCC7DC78393C55C1062CE70DF045C93E56345C6CB700373DC3C329260CC"
+  },
+  {
+   "nom": "props_cat23.json",
+   "taille": 2110578,
+   "empreinte": "FF7DE1965A1255AC6C43695B61099B55981307618661FF020A01B8ED4F4E3EA6"
+  },
+  {
+   "nom": "props_cat3.json",
+   "taille": 174591,
+   "empreinte": "350FD444D20D9AEE4D51AE6436D10A62C92436C03025F49AA46CC11FF8F90FB2"
+  },
+  {
+   "nom": "props_cat4.json",
+   "taille": 1861103,
+   "empreinte": "6527E6CEE08EB467864696C3EAF1517204F2D1E931468CF28022EBBD0F574434"
+  },
+  {
+   "nom": "props_cat40.json",
+   "taille": 442792,
+   "empreinte": "F4797A82CCFA3C7FDEF7ECDA36C296CC46F3C0545783D47FEDD964DA04D9D883"
+  },
+  {
+   "nom": "props_cat41.json",
+   "taille": 446937,
+   "empreinte": "AEFB71D4E2166D5EDBA7AEE3070240C816975E980C1EC48C6DB9742D08DAF248"
+  },
+  {
+   "nom": "props_cat52.json",
+   "taille": 466119,
+   "empreinte": "B6526ED21D74C9716D0B2710DD6E733B85039527BB1EA61792EFCE730E39E9D2"
+  },
+  {
+   "nom": "props_cat57.json",
+   "taille": 227650,
+   "empreinte": "63D79A29CA8D04BCBCEB4FD02882B15449295FFA6F96709DB190A3900773C7F6"
+  },
+  {
+   "nom": "props_cat6.json",
+   "taille": 1288356,
+   "empreinte": "0A11A814576BF42E027F54A52840A34499C76B0871953C63BBDAF776EAF0C09A"
+  },
+  {
+   "nom": "props_cat66.json",
+   "taille": 192959,
+   "empreinte": "E4CDC4A0441B4F679942B50C02BF6A9F99EC78E93292F4D3DBD8A323D00A61F0"
+  },
+  {
+   "nom": "props_cat7.json",
+   "taille": 470411,
+   "empreinte": "8D4A570EBAC719A6F61FEAAB82CCB3949B2FC08CAC0BB667CE09FFA3650F6DFE"
+  },
+  {
+   "nom": "props_cat73.json",
+   "taille": 207181,
+   "empreinte": "447E452DD649CA57F4B853F96D106F9808A11B8D3542F29F14671FA17FF2FE11"
+  },
+  {
+   "nom": "props_cat75.json",
+   "taille": 392671,
+   "empreinte": "4E8A16D5C38501804C6D477D24609E0B15A3B5FF3826AEDF0291461F07FF7F0A"
+  },
+  {
+   "nom": "props_cat79.json",
+   "taille": 129735,
+   "empreinte": "5706A7F40FC870E479CCC320B2FE32E2C5DFC222DD3A0B210DF4AD570D6071CE"
+  }
+ ]
 }

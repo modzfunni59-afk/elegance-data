@@ -1,0 +1,31 @@
+name: Générer index.json
+
+# Se déclenche dès qu'un fichier de données change, quelle que soit la façon
+# dont il est arrivé : glisser-déposer sur github.com, git push, peu importe.
+on:
+  push:
+    paths:
+      - 'data/**'
+      - '!data/index.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fabriquer l'index
+        run: python3 .github/scripts/generer-index.py
+
+      - name: Publier s'il a changé
+        run: |
+          git config user.name "elegance-bot"
+          git config user.email "actions@github.com"
+          git add data/index.json
+          git diff --staged --quiet && echo "index inchangé" && exit 0
+          git commit -m "index: mise à jour automatique"
+          git push

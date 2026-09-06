@@ -1,7 +1,5 @@
 name: Générer index.json
 
-# Se déclenche dès qu'un fichier de données change, quelle que soit la façon
-# dont il est arrivé : glisser-déposer sur github.com, git push, peu importe.
 on:
   push:
     paths:
@@ -18,6 +16,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Voir ce qu'il y a dans data
+        run: |
+          echo "--- contenu de data ---"
+          ls -la data || echo "PAS DE DOSSIER data"
+
       - name: Fabriquer l'index
         run: python3 .github/scripts/generer-index.py
 
@@ -26,6 +29,12 @@ jobs:
           git config user.name "elegance-bot"
           git config user.email "actions@github.com"
           git add data/index.json
-          git diff --staged --quiet && echo "index inchangé" && exit 0
-          git commit -m "index: mise à jour automatique"
-          git push
+
+          if git diff --staged --quiet; then
+            echo "Index inchangé, rien à publier."
+          else
+            git commit -m "index: mise à jour automatique"
+            git pull --rebase --autostash
+            git push
+            echo "Index publié."
+          fi

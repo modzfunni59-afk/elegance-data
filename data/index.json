@@ -1,16 +1,11 @@
 {
- "genere_le": "2026-09-07T12:29:52.594053+00:00",
- "nombre": 20,
+ "genere_le": "2026-09-07T12:40:06.882030+00:00",
+ "nombre": 19,
  "fichiers": [
   {
    "nom": "interieurs.json",
    "taille": 12112,
    "empreinte": "0EE2352689D44B2202B63144199B867A1428ECCE566157D47327298CC5EBB3A2"
-  },
-  {
-   "nom": "props_cat10.json",
-   "taille": 473164,
-   "empreinte": "77CD882E3A08A0ED4CEFD5A979CAB1DD9CD647D1812742AAF12DB3EAEB796BE0"
   },
   {
    "nom": "props_cat13.json",

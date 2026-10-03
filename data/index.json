@@ -1,11 +1,16 @@
 {
-    "genere_le":  "2026-10-03T09:10:31.5962113Z",
-    "nombre":  123,
+    "genere_le":  "2026-10-03T09:20:52.3104681Z",
+    "nombre":  124,
     "fichiers":  [
                      {
                          "nom":  "interieurs.json",
                          "taille":  12112,
                          "empreinte":  "0EE2352689D44B2202B63144199B867A1428ECCE566157D47327298CC5EBB3A2"
+                     },
+                     {
+                         "nom":  "multipoints.json",
+                         "taille":  127124,
+                         "empreinte":  "FB33F09151202AB518FF3CA77BD118287485CA36C617E47EA6DCD29C5A95DB13"
                      },
                      {
                          "nom":  "props_cat10.json",

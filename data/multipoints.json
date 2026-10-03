@@ -1,0 +1,4897 @@
+{
+  "items": [
+    {
+      "id": "74ebaac7-f1bb-4bcc-aa9e-7f4da4ca8a0c",
+      "title": "Multipoint Entrepôt Claimway",
+      "description": "5 Multipoint Entrepôt Présent sur place^^",
+      "x": 2013,
+      "y": 3350,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        }
+      ]
+    },
+    {
+      "id": "1c788372-f507-459e-a04c-00d7590f50a9",
+      "title": "Multipoint Riverf0nt Ave",
+      "description": "Multipoint Flat 3 avec garage 2 & 6Pl",
+      "x": 1975,
+      "y": 3244,
+      "blipType": "habitation_garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": {
+        "id": "4e2d1490-dd83-461a-8ceb-7b9a22b33769",
+        "title": "Garage relié au Multipoint Riverfront Ave"
+      },
+      "prices": [
+        {
+          "label": "Flat 3",
+          "purchasePrice": "61250",
+          "rentalPrice": "7000"
+        },
+        {
+          "label": "Flat 3 Non Meublé",
+          "purchasePrice": "61250",
+          "rentalPrice": "7000"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        }
+      ]
+    },
+    {
+      "id": "4e2d1490-dd83-461a-8ceb-7b9a22b33769",
+      "title": "Garage relié au Multipoint Riverfront Ave",
+      "description": "/",
+      "x": 1973,
+      "y": 3246,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "9cef9f63-2b58-44ec-9a15-e725a94cd55a",
+      "title": "Multipoint Entrepôt Riverfront",
+      "description": "/",
+      "x": 1977,
+      "y": 3231,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        }
+      ]
+    },
+    {
+      "id": "4675298f-b83a-43bd-824d-8c3099a15dfd",
+      "title": "Multipoint Garage Roxwood",
+      "description": "/",
+      "x": 2015,
+      "y": 3290,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "1705d941-6fb0-4eac-8560-436e7d187f7f",
+      "title": "Multipoint Shell Bead",
+      "description": "/",
+      "x": 1905,
+      "y": 3251,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Flat 1",
+          "purchasePrice": "52500",
+          "rentalPrice": "7000"
+        },
+        {
+          "label": "Flat 1 Non Meublé",
+          "purchasePrice": "61250",
+          "rentalPrice": "7000"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        }
+      ]
+    },
+    {
+      "id": "ca59597e-719d-4752-a072-807fea4267c9",
+      "title": "Multipoint Garage Roxwood",
+      "description": "/",
+      "x": 1661,
+      "y": 3112,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "b958e3d9-28a4-46e5-8d96-5747113907df",
+      "title": "Multipoint Entrepôt Aéroport Roxwood",
+      "description": "/",
+      "x": 1330,
+      "y": 3327,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        }
+      ]
+    },
+    {
+      "id": "97393a5a-e886-42b4-8d11-92cd17dbf8d4",
+      "title": "Multipoint Garage Aéroport Roxwood",
+      "description": "/",
+      "x": 1322,
+      "y": 3325,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "91dd67bd-7773-4cf4-b4ba-9a08184bdc0b",
+      "title": "Multipoint Habitation Tempo 1",
+      "description": "/",
+      "x": 1323,
+      "y": 3080,
+      "blipType": "habitation_garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": {
+        "id": "f39b7af6-fbed-439f-a436-7f2cf9cf53d2",
+        "title": "Multipoint Garage relié au Tempo 1"
+      },
+      "prices": [
+        {
+          "label": "Maison 2",
+          "purchasePrice": "61250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Petit Appartement 1",
+          "purchasePrice": "200000",
+          "rentalPrice": "10000"
+        },
+        {
+          "label": "Petit Appartement 2",
+          "purchasePrice": "215000",
+          "rentalPrice": "10500"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        }
+      ]
+    },
+    {
+      "id": "f39b7af6-fbed-439f-a436-7f2cf9cf53d2",
+      "title": "Multipoint Garage relié au Tempo 1",
+      "description": "/",
+      "x": 1322,
+      "y": 3074,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "2f356529-6a26-4160-9332-32828a1cc22a",
+      "title": "Mulitpoint Habitation Roxwood",
+      "description": "/",
+      "x": 1334,
+      "y": 3065,
+      "blipType": "habitation_garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": {
+        "id": "180ac046-ee1b-4c97-966c-b65031896412",
+        "title": "Mulitpoint Garage relié au Multi Habitation Roxwood"
+      },
+      "prices": [
+        {
+          "label": "Bureau 1 & 6",
+          "purchasePrice": "35000",
+          "rentalPrice": "3500"
+        },
+        {
+          "label": "Bureau 2 à 5",
+          "purchasePrice": "1400000",
+          "rentalPrice": "70000"
+        },
+        {
+          "label": "Appartement 1 Non Meublé",
+          "purchasePrice": "315000",
+          "rentalPrice": "15750"
+        },
+        {
+          "label": "Appartement 2 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 3 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 4 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Petit Appartement 1",
+          "purchasePrice": "200000",
+          "rentalPrice": "10000"
+        },
+        {
+          "label": "Petit Appartement 2",
+          "purchasePrice": "215000",
+          "rentalPrice": "10500"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        }
+      ]
+    },
+    {
+      "id": "180ac046-ee1b-4c97-966c-b65031896412",
+      "title": "Mulitpoint Garage relié au Multi Habitation Roxwood",
+      "description": "/",
+      "x": 1330,
+      "y": 3062,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "329ccdf8-21bd-4a67-9cb3-5b63226f223e",
+      "title": "Mulitpoint Motel Roxwood",
+      "description": "Ce trouve au dessus des marches d'escalier",
+      "x": 1311,
+      "y": 3057,
+      "blipType": "habitation_garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Motel",
+          "purchasePrice": "0",
+          "rentalPrice": "2625"
+        },
+        {
+          "label": "Maison 1",
+          "purchasePrice": "43750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Maison 1 Non Meublé",
+          "purchasePrice": "43750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "4cdb7515-acb0-42ee-a629-12683187a163",
+      "title": "Multipoint relié au Motel Roxwood",
+      "description": "/",
+      "x": 1317,
+      "y": 3052,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "90d15d71-ce49-49c4-b430-4bff8f5fe9ca",
+      "title": "Mulitpoint Habitation Tempos 5",
+      "description": "Garage 2Pl possible",
+      "x": 1307,
+      "y": 3019,
+      "blipType": "habitation_garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": {
+        "id": "3c7a4483-f719-4a60-857e-7fb21492d978",
+        "title": "Multipoint Garage relié au Tempo 5"
+      },
+      "prices": [
+        {
+          "label": "Motel",
+          "purchasePrice": "0",
+          "rentalPrice": "2625"
+        }
+      ]
+    },
+    {
+      "id": "3c7a4483-f719-4a60-857e-7fb21492d978",
+      "title": "Multipoint Garage relié au Tempo 5",
+      "description": "/",
+      "x": 1295,
+      "y": 3017,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "b8743fec-1253-46ce-8b08-5c72a108fde2",
+      "title": "Multipoint Habitation Tempo 6",
+      "description": "/",
+      "x": 1300,
+      "y": 3018,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Motel",
+          "purchasePrice": "0",
+          "rentalPrice": "2625"
+        }
+      ]
+    },
+    {
+      "id": "f8e17ba6-f846-4a54-b431-be59e662e8c0",
+      "title": "Multipoint Habitation Tempo 4",
+      "description": "/",
+      "x": 1312,
+      "y": 3030,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Maison 2",
+          "purchasePrice": "61250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Petit Appartement 1",
+          "purchasePrice": "200000",
+          "rentalPrice": "10000"
+        },
+        {
+          "label": "Petit Appartement 2",
+          "purchasePrice": "215000",
+          "rentalPrice": "10500"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        }
+      ]
+    },
+    {
+      "id": "fa346144-ea09-4db5-9c50-64ed78462156",
+      "title": "Multipoint Habitation Roxwood Plage",
+      "description": "Multipoint Flat 3 présent tout le longs (8 Multipoint)",
+      "x": 1340,
+      "y": 3030,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Flat 3",
+          "purchasePrice": "61250",
+          "rentalPrice": "7000"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        }
+      ]
+    },
+    {
+      "id": "3e016bac-369f-4c3e-b044-786ec570de46",
+      "title": "Mulitpoint Garage Bord de plage",
+      "description": "/",
+      "x": 1360,
+      "y": 3051,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "1febf8b5-a7f4-417c-a2e8-631e109a7cf8",
+      "title": "Mulitpoint Garage Bord de plage",
+      "description": "/",
+      "x": 1365,
+      "y": 3053,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "7c797f26-6e78-4e11-9548-878a2101d632",
+      "title": "Multipoint Habitation Stay Roxwood",
+      "description": "/",
+      "x": 1860,
+      "y": 3737,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Maison 1",
+          "purchasePrice": "43750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Maison 2",
+          "purchasePrice": "61250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        }
+      ]
+    },
+    {
+      "id": "6880bc07-545f-4bfd-90b2-52851825ad3a",
+      "title": "Multipoint Garage Industriel Zone Roxwood",
+      "description": "/",
+      "x": 1915,
+      "y": 3631,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "698ee1dd-db02-40e4-81a6-faff848549c7",
+      "title": "Multipoint Entrepôt Roxwood",
+      "description": "/",
+      "x": 1923,
+      "y": 3571,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        }
+      ]
+    },
+    {
+      "id": "93f8d28a-b063-4b2b-9c23-54c6de8855e7",
+      "title": "Multipoint Garage Tempo 1",
+      "description": "/",
+      "x": 2199,
+      "y": 3432,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "1146ad6c-2b66-4b81-bc0c-1f11bebd0e6a",
+      "title": "Multipoint Entrepôt Temporaire",
+      "description": "/",
+      "x": 2191,
+      "y": 3410,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        }
+      ]
+    },
+    {
+      "id": "176c257e-4cc6-485b-8522-bd4be427af64",
+      "title": "Multipoint Garage Tempo 2",
+      "description": "/",
+      "x": 2230,
+      "y": 3371,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places — VIP++",
+          "purchasePrice": "0",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "90d11a5b-0f86-4561-94cc-fa50062797ed",
+      "title": "Multipoint Garage Tempo 3",
+      "description": "/",
+      "x": 2236,
+      "y": 3375,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places — VIP++",
+          "purchasePrice": "0",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "a6e6e79d-64d9-4a0f-9f0a-5b65e4ba5174",
+      "title": "Multipoint Garage Tempo 4",
+      "description": "/",
+      "x": 2224,
+      "y": 3367,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places — VIP++",
+          "purchasePrice": "0",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "7d021b2b-44db-459d-911b-8b5db92065de",
+      "title": "Multipoint Entrepôt Temporaire 2",
+      "description": "/",
+      "x": 2266,
+      "y": 3325,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        }
+      ]
+    },
+    {
+      "id": "6413e13f-59b7-40a4-bb02-34f5ab032cb7",
+      "title": "Multipoint Entrepôt Temporaire 3",
+      "description": "/",
+      "x": 2263,
+      "y": 3321,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        }
+      ]
+    },
+    {
+      "id": "b9026fd6-3606-455f-b7ab-2ba462dff69b",
+      "title": "Multipoint Motel Paleto Bay",
+      "description": "/",
+      "x": 2071,
+      "y": 3085,
+      "blipType": "habitation_garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Motel",
+          "purchasePrice": "0",
+          "rentalPrice": "2625"
+        }
+      ]
+    },
+    {
+      "id": "1431bedc-65f4-4546-b16f-85128a402639",
+      "title": "Multipoint Garage relié au Motel Paleto Bay",
+      "description": "/",
+      "x": 2074,
+      "y": 3085,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "6b9a6d36-8dda-4aa1-b22e-9002030a0457",
+      "title": "Multipoint Entrepôt Great Ocean Highway",
+      "description": "/",
+      "x": 2035,
+      "y": 3025,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        }
+      ]
+    },
+    {
+      "id": "f85be29e-b258-43f4-a6b7-371c8009d373",
+      "title": "Multipoint Garage Great Ocean Highway",
+      "description": "/",
+      "x": 2088,
+      "y": 3111,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "a6b16ed2-3c6a-49f4-a814-82eb08b7c1b6",
+      "title": "Multipoint entrepôt Grapeseed",
+      "description": "/",
+      "x": 2674,
+      "y": 2728,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        }
+      ]
+    },
+    {
+      "id": "70a94890-4192-417e-903a-7396dc77fb48",
+      "title": "Multipoint entrepôt Grapeseed ",
+      "description": "/",
+      "x": 2672,
+      "y": 2726,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        }
+      ]
+    },
+    {
+      "id": "e472350c-9b17-4b40-9373-44cf80271190",
+      "title": "Multipoint garage Grapeseed",
+      "description": "/",
+      "x": 2736,
+      "y": 2679,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "c976ebb2-f040-450d-a171-b1f518854a3d",
+      "title": "Multipoint entrepôt Grapeseed Avenue",
+      "description": "/",
+      "x": 2731,
+      "y": 2684,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        }
+      ]
+    },
+    {
+      "id": "1419a598-abe6-490d-9afc-324f1dae1636",
+      "title": "Multipoint entrepôt Union Road",
+      "description": "/",
+      "x": 2820,
+      "y": 2635,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        }
+      ]
+    },
+    {
+      "id": "6e8512df-a5af-4069-85ac-0edff6f39c83",
+      "title": "Multipoint garage TM Motors",
+      "description": "/",
+      "x": 2716,
+      "y": 2541,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "65f88f97-efbb-4f85-a686-10b83ba47d3c",
+      "title": "Multipoint garage lié Joshua Road",
+      "description": "/",
+      "x": 2596,
+      "y": 2450,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "ec4c8943-beba-4b11-a956-11995fc66ba8",
+      "title": "Multipoint habitation Joshua Road",
+      "description": "/",
+      "x": 2593,
+      "y": 2449,
+      "blipType": "habitation_garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": {
+        "id": "65f88f97-efbb-4f85-a686-10b83ba47d3c",
+        "title": "Multipoint garage lié Joshua Road"
+      },
+      "prices": [
+        {
+          "label": "Maison 1",
+          "purchasePrice": "43750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Flat 2",
+          "purchasePrice": "35000",
+          "rentalPrice": "4375"
+        },
+        {
+          "label": "Flat 2 Non Meublé",
+          "purchasePrice": "70000",
+          "rentalPrice": "6000"
+        },
+        {
+          "label": "Lester",
+          "purchasePrice": "43750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        }
+      ]
+    },
+    {
+      "id": "1847ecf7-f852-4974-91f4-3c150f6cf83c",
+      "title": "Multipoint Entrepôt Cayo Cigare",
+      "description": "/",
+      "x": 3467,
+      "y": 677,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "28565067-8697-422e-aecf-ed79eec6dc95",
+        "name": "Cayo",
+        "vatRate": 10
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        }
+      ]
+    },
+    {
+      "id": "14e65ce5-8359-419e-829c-5fc9c1c5731a",
+      "title": "Multipoint Garage Cayo Cigare",
+      "description": "/",
+      "x": 3465,
+      "y": 672,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "28565067-8697-422e-aecf-ed79eec6dc95",
+        "name": "Cayo",
+        "vatRate": 10
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "e8c6cd7a-6477-4612-aee2-2df21302dbe8",
+      "title": "Multipoint garage Sandy Shores",
+      "description": "/",
+      "x": 2541,
+      "y": 2454,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "b69cd5ea-e7fc-43c7-9da7-6c66a665905b",
+      "title": "Multipoint garage Señora Freeway",
+      "description": "/",
+      "x": 2760,
+      "y": 2382,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "85006fbd-e4cd-4c5a-80fa-0462b08045f5",
+      "title": "Multipoint entrepôt Señora Freeway",
+      "description": "/",
+      "x": 2759,
+      "y": 2396,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        }
+      ]
+    },
+    {
+      "id": "21eb18f5-22da-4d33-bd2f-a28fb7827e9c",
+      "title": "Multipoint Garage Del Perro",
+      "description": "/",
+      "x": 1909,
+      "y": 1509,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "345646a6-0e1c-4d38-934c-491ff9952910",
+      "title": "Multipoint Garage Del Perro",
+      "description": "/",
+      "x": 1919,
+      "y": 1514,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "666fef38-b4a2-415e-b31a-c2b7d8bb0fee",
+      "title": "Multipoint entrepôt Marina Drive",
+      "description": "/",
+      "x": 2192,
+      "y": 2411,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        }
+      ]
+    },
+    {
+      "id": "a45912c0-9583-433d-90f5-a5401d2f8002",
+      "title": "Multipoint Garage Eclipse Medical Towers",
+      "description": "/",
+      "x": 1938,
+      "y": 1603,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "6bab7343-ff76-480f-8823-825d5c97cf8b",
+      "title": "Multipoint Motel route 68",
+      "description": "/",
+      "x": 2374,
+      "y": 2179,
+      "blipType": "habitation_garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": {
+        "id": "c9eea561-551d-4a15-97b3-49c159ddc1ea",
+        "title": "Multipoint garage lié Motel route 68"
+      },
+      "prices": [
+        {
+          "label": "Motel",
+          "purchasePrice": "0",
+          "rentalPrice": "2625"
+        }
+      ]
+    },
+    {
+      "id": "c9eea561-551d-4a15-97b3-49c159ddc1ea",
+      "title": "Multipoint garage lié Motel route 68",
+      "description": "/",
+      "x": 2368,
+      "y": 2181,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "9783d503-4a0c-42bb-ad40-69e321452875",
+      "title": "Multipoint Garage Nyrex",
+      "description": "/",
+      "x": 1908,
+      "y": 1586,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "292483e2-8f7f-4a66-92a9-c1c660578dcb",
+      "title": "Multipoint Eclipse Towers",
+      "description": "/",
+      "x": 1908,
+      "y": 1603,
+      "blipType": "habitation_garage",
+      "availability": "disponible",
+      "category": {
+        "id": "22b9e7c2-efb6-479d-b2db-406f0537a7b2",
+        "name": "Nord",
+        "vatRate": 7
+      },
+      "linkedGarage": {
+        "id": "52ecc8fa-d70b-4366-b894-b4d1f21af8e6",
+        "title": "Multipoint Garage relié a l'Eclipse Tower"
+      },
+      "prices": [
+        {
+          "label": "Eclipse Tower 1 à 7",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Tinsel Towers 1 & 2",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Del Perro Heights 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Richards Majesctic 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Weazel Plaza 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "San Andreas 1 & 2",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Alta Street 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Penthouse",
+          "purchasePrice": "7000000",
+          "rentalPrice": "262500"
+        },
+        {
+          "label": "Headquarter 1 à 4",
+          "purchasePrice": "3500000",
+          "rentalPrice": "175000"
+        },
+        {
+          "label": "Duplex 1 à 8",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        }
+      ]
+    },
+    {
+      "id": "52ecc8fa-d70b-4366-b894-b4d1f21af8e6",
+      "title": "Multipoint Garage relié a l'Eclipse Tower",
+      "description": "/",
+      "x": 1901,
+      "y": 1607,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "2a1c1e42-44a9-40c8-b074-503cd3ee8c4b",
+      "title": "Multipoint Richtman Hotel ",
+      "description": "/",
+      "x": 1782,
+      "y": 1605,
+      "blipType": "habitation_garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": {
+        "id": "f26f25ce-b780-436b-b597-7e8916e68068",
+        "title": "Multipoint Garage relié au Ritchman Hotel"
+      },
+      "prices": [
+        {
+          "label": "Villa 1 à 9",
+          "purchasePrice": "1750000",
+          "rentalPrice": "175000"
+        },
+        {
+          "label": "Villa Mickael & Franklin",
+          "purchasePrice": "3500000",
+          "rentalPrice": "175000"
+        },
+        {
+          "label": "Villa Non Meublé",
+          "purchasePrice": "1750000",
+          "rentalPrice": "175000"
+        },
+        {
+          "label": "Eclipse Tower 1 à 7",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Tinsel Towers 1 & 2",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Del Perro Heights 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Richards Majesctic 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Weazel Plaza 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "San Andreas 1 & 2",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Alta Street 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Penthouse",
+          "purchasePrice": "7000000",
+          "rentalPrice": "262500"
+        },
+        {
+          "label": "Bureau 1 & 6",
+          "purchasePrice": "35000",
+          "rentalPrice": "3500"
+        },
+        {
+          "label": "Bureau 2 à 5",
+          "purchasePrice": "1400000",
+          "rentalPrice": "70000"
+        },
+        {
+          "label": "Bureau 1 à 3 Non Meublé",
+          "purchasePrice": "1400000",
+          "rentalPrice": "70000"
+        },
+        {
+          "label": "Headquarter 1 à 4",
+          "purchasePrice": "3500000",
+          "rentalPrice": "175000"
+        },
+        {
+          "label": "Duplex 1 à 8",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Appartement 1 Non Meublé",
+          "purchasePrice": "315000",
+          "rentalPrice": "15750"
+        },
+        {
+          "label": "Appartement 2 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 3 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 4 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Petit Appartement 1",
+          "purchasePrice": "200000",
+          "rentalPrice": "10000"
+        },
+        {
+          "label": "Petit Appartement 2",
+          "purchasePrice": "215000",
+          "rentalPrice": "10500"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        }
+      ]
+    },
+    {
+      "id": "f26f25ce-b780-436b-b597-7e8916e68068",
+      "title": "Multipoint Garage relié au Ritchman Hotel",
+      "description": "/",
+      "x": 1779,
+      "y": 1600,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "5edff70f-3e7b-46a3-9ad5-4f8e52c3b858",
+      "title": "Multipoint Habitation Morningwood Boulevard",
+      "description": "/",
+      "x": 1780,
+      "y": 1423,
+      "blipType": "habitation_garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": {
+        "id": "e10b3860-5bab-43b5-b105-855b528b1f7b",
+        "title": "Multipoint Garage lié Morningwood Boulevard"
+      },
+      "prices": [
+        {
+          "label": "Eclipse Tower 1 à 7",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Tinsel Towers 1 & 2",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Del Perro Heights 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Richards Majesctic 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Weazel Plaza 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "San Andreas 1 & 2",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Alta Street 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Bureau 1 & 6",
+          "purchasePrice": "35000",
+          "rentalPrice": "3500"
+        },
+        {
+          "label": "Bureau 2 à 5",
+          "purchasePrice": "1400000",
+          "rentalPrice": "70000"
+        },
+        {
+          "label": "Headquarter 1 à 4",
+          "purchasePrice": "3500000",
+          "rentalPrice": "175000"
+        },
+        {
+          "label": "Duplex 1 à 8",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Petit Appartement 1",
+          "purchasePrice": "200000",
+          "rentalPrice": "10000"
+        },
+        {
+          "label": "Petit Appartement 2",
+          "purchasePrice": "215000",
+          "rentalPrice": "10500"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        }
+      ]
+    },
+    {
+      "id": "e10b3860-5bab-43b5-b105-855b528b1f7b",
+      "title": "Multipoint Garage lié Morningwood Boulevard",
+      "description": "/",
+      "x": 1773,
+      "y": 1427,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "c60ce897-5567-426d-baa9-6e73876aed62",
+      "title": "Multipoint entrepôt Mirror Park",
+      "description": "/",
+      "x": 2376,
+      "y": 1411,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        }
+      ]
+    },
+    {
+      "id": "713b4222-9e66-4548-984c-b68c5965951f",
+      "title": "Multipoint garage Mirror Park",
+      "description": "/",
+      "x": 2381,
+      "y": 1348,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "1c0922ba-5130-4af4-ac25-62b2c30a2294",
+      "title": "Multipoint entrepôt Vinewood Park Drive",
+      "description": "/",
+      "x": 2336,
+      "y": 1531,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        }
+      ]
+    },
+    {
+      "id": "6633358f-bf67-4f0b-8c44-8ffab7955d85",
+      "title": "Multipoint garage Vinewood Park Drive",
+      "description": "/",
+      "x": 2328,
+      "y": 1528,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "3d8e38ed-6bd0-48f6-ac4b-f4039d2c82dd",
+      "title": "Multipoint garage Meteor Street",
+      "description": "/",
+      "x": 2205,
+      "y": 1526,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "6d4fd1b8-b498-49dd-8c17-b840e771fdbb",
+      "title": "Multipoint habitation Power Street",
+      "description": "/",
+      "x": 2194,
+      "y": 1529,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        },
+        {
+          "label": "Petit Appartement 1",
+          "purchasePrice": "200000",
+          "rentalPrice": "10000"
+        },
+        {
+          "label": "Petit Appartement 2",
+          "purchasePrice": "215000",
+          "rentalPrice": "10500"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        }
+      ]
+    },
+    {
+      "id": "82288c73-e9c0-4623-b20c-7b9d772758cb",
+      "title": "Multipoint garage Power Street",
+      "description": "/",
+      "x": 2184,
+      "y": 1535,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "8f02fb84-ce74-44ae-a67e-cf55c3e75866",
+      "title": "Multipoint habitation Power Street",
+      "description": "/",
+      "x": 2184,
+      "y": 1526,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        },
+        {
+          "label": "Petit Appartement 1",
+          "purchasePrice": "200000",
+          "rentalPrice": "10000"
+        },
+        {
+          "label": "Petit Appartement 2",
+          "purchasePrice": "215000",
+          "rentalPrice": "10500"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        }
+      ]
+    },
+    {
+      "id": "7003748e-6506-4ce2-a5a8-aa67474ed5aa",
+      "title": "Multipoint habitation The Vinewood Gardens Hotel",
+      "description": "/",
+      "x": 2177,
+      "y": 1510,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Bureau 1 & 6",
+          "purchasePrice": "35000",
+          "rentalPrice": "3500"
+        },
+        {
+          "label": "Bureau 1 à 3 Non Meublé",
+          "purchasePrice": "1400000",
+          "rentalPrice": "70000"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        }
+      ]
+    },
+    {
+      "id": "031b6881-17a3-4fc5-bb7e-974dafe24d89",
+      "title": "Multipoint garage Spanish Avenue",
+      "description": "/",
+      "x": 2188,
+      "y": 1511,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "94b0ae56-4751-4740-b359-19d56ff4e0fb",
+      "title": "Multipoint garage Elgin Avenue & Hawick Avenue",
+      "description": "/",
+      "x": 2208,
+      "y": 1462,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "ecd592f4-040c-4ee4-9e62-ddfc3e214fd6",
+      "title": "Multipoint habitation Meteor Street",
+      "description": "/",
+      "x": 2196,
+      "y": 1474,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Maison 1",
+          "purchasePrice": "43750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Petit Appartement 1",
+          "purchasePrice": "200000",
+          "rentalPrice": "10000"
+        },
+        {
+          "label": "Petit Appartement 2",
+          "purchasePrice": "215000",
+          "rentalPrice": "10500"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        }
+      ]
+    },
+    {
+      "id": "82df737c-1765-4db8-8d47-9093d5bec193",
+      "title": "Multipoint garage lié Power Street",
+      "description": "/",
+      "x": 2168,
+      "y": 1494,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "e3fb1955-3698-4be8-9aea-be9269ae8e2f",
+      "title": "Multipoint habitation lié Power Street",
+      "description": "/",
+      "x": 2167,
+      "y": 1491,
+      "blipType": "habitation_garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": {
+        "id": "82df737c-1765-4db8-8d47-9093d5bec193",
+        "title": "Multipoint garage lié Power Street"
+      },
+      "prices": [
+        {
+          "label": "Maison 1 Non Meublé",
+          "purchasePrice": "43750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Flat 2",
+          "purchasePrice": "35000",
+          "rentalPrice": "4375"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        }
+      ]
+    },
+    {
+      "id": "61321815-d39c-4e22-b473-743345b20e9c",
+      "title": "Crastenburg",
+      "description": "Mulitpoint Crastenburg",
+      "x": 1879,
+      "y": 991,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": {
+        "id": "70eb227f-0210-4ade-bea8-09474289cf3c",
+        "title": "La Puerta Freeway"
+      },
+      "prices": [
+        {
+          "label": "Alta Street 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "San Andreas 1 & 2",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Eclipse Tower 1 à 7",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Del Perro Heights 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Tinsel Towers 1 & 2",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Richards Majesctic 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Weazel Plaza 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Appartement 1 Non Meublé",
+          "purchasePrice": "315000",
+          "rentalPrice": "15750"
+        },
+        {
+          "label": "Appartement 2 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 3 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 4 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Duplex 1 à 8",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Petit Appartement 1",
+          "purchasePrice": "200000",
+          "rentalPrice": "10000"
+        },
+        {
+          "label": "Petit Appartement 2",
+          "purchasePrice": "215000",
+          "rentalPrice": "10500"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        }
+      ]
+    },
+    {
+      "id": "70eb227f-0210-4ade-bea8-09474289cf3c",
+      "title": "La Puerta Freeway",
+      "description": "Multipoint",
+      "x": 1898,
+      "y": 1008,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "2f5416bf-e13e-4fe6-9160-bbe26c33adc9",
+      "title": "Opium Nights Hotel 2",
+      "description": "Multipoint Opium Nights Hotel 2",
+      "x": 1924,
+      "y": 965,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Eclipse Tower 1 à 7",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Tinsel Towers 1 & 2",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Del Perro Heights 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Richards Majesctic 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Weazel Plaza 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "San Andreas 1 & 2",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Alta Street 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Appartement 1 Non Meublé",
+          "purchasePrice": "315000",
+          "rentalPrice": "15750"
+        },
+        {
+          "label": "Appartement 2 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 3 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 4 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Duplex 1 à 8",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Petit Appartement 1",
+          "purchasePrice": "200000",
+          "rentalPrice": "10000"
+        },
+        {
+          "label": "Petit Appartement 2",
+          "purchasePrice": "215000",
+          "rentalPrice": "10500"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        }
+      ]
+    },
+    {
+      "id": "c73ddbe3-e0a3-4d34-9ab4-a69b920b68a9",
+      "title": "Opium Nights Hotel",
+      "description": "Multipoint Opium Nights Hotel ",
+      "x": 1913,
+      "y": 965,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Eclipse Tower 1 à 7",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Tinsel Towers 1 & 2",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Del Perro Heights 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Richards Majesctic 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Weazel Plaza 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "San Andreas 1 & 2",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Alta Street 1 à 3",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Appartement 1 Non Meublé",
+          "purchasePrice": "315000",
+          "rentalPrice": "15750"
+        },
+        {
+          "label": "Appartement 2 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 3 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 4 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Duplex 1 à 8",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        },
+        {
+          "label": "Petit Appartement 1",
+          "purchasePrice": "200000",
+          "rentalPrice": "10000"
+        },
+        {
+          "label": "Petit Appartement 2",
+          "purchasePrice": "215000",
+          "rentalPrice": "10500"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        },
+        {
+          "label": "Loft",
+          "purchasePrice": "350000",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 8",
+          "purchasePrice": "330000",
+          "rentalPrice": "15600"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 9",
+          "purchasePrice": "130000",
+          "rentalPrice": "4750"
+        },
+        {
+          "label": "Chalet",
+          "purchasePrice": "480000",
+          "rentalPrice": "24000"
+        },
+        {
+          "label": "Studio",
+          "purchasePrice": "60000",
+          "rentalPrice": "2750"
+        }
+      ]
+    },
+    {
+      "id": "ef7b5e84-3f4e-4b9d-8395-d4347845fe1a",
+      "title": "Dutch London Street",
+      "description": "Multi garage",
+      "x": 1921,
+      "y": 978,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "df164fbe-feaf-4f04-8201-3a160d0ffc8f",
+      "title": "New empire Way",
+      "description": "Multipoint entrepôt",
+      "x": 1867,
+      "y": 899,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        }
+      ]
+    },
+    {
+      "id": "5bfce9bf-49a5-46ae-9b9a-c9f954b1b074",
+      "title": "New Empire Way",
+      "description": "Multi garage",
+      "x": 1865,
+      "y": 898,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "56edd924-26b1-4601-860d-bd487a2b74c9",
+      "title": "Entrepôt Little Bighorn Avenue",
+      "description": "Multi Entrepôt",
+      "x": 2215,
+      "y": 1046,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        }
+      ]
+    },
+    {
+      "id": "d6430d73-fc29-40c2-9602-2b508f848d84",
+      "title": "Little Bighorn Avenue",
+      "description": "Multi Garage",
+      "x": 2231,
+      "y": 1049,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "c172dbe1-7c3f-430d-9ee9-3fc92875d495",
+      "title": "Popular Street",
+      "description": "Multi garage",
+      "x": 2289,
+      "y": 1067,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        }
+      ]
+    },
+    {
+      "id": "6ace4478-7fdf-40c0-ab23-82e7bbeac89d",
+      "title": "Popular Street",
+      "description": "Multi entrepôt",
+      "x": 2306,
+      "y": 1050,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        }
+      ]
+    },
+    {
+      "id": "a4989acd-b4f8-456d-b7d8-7f2fa0051853",
+      "title": "Popular Street",
+      "description": "Multi entrepôt",
+      "x": 2297,
+      "y": 1033,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        }
+      ]
+    },
+    {
+      "id": "9fb0fb04-b481-4038-ba64-0d51bb6f02d0",
+      "title": "Ochardville Avenue",
+      "description": "Multi entrepôt",
+      "x": 2338,
+      "y": 1039,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        }
+      ]
+    },
+    {
+      "id": "6a283cc4-bd26-4ee6-8e47-4c703ade5702",
+      "title": "Ochardville Avenue",
+      "description": "Multi entrepôt",
+      "x": 2304,
+      "y": 957,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        }
+      ]
+    },
+    {
+      "id": "67a4fd57-f1df-46a1-a9b8-459746fc2fe9",
+      "title": "Multipoint Cayo²",
+      "description": "Deuxième ile Cayo",
+      "x": 3000,
+      "y": 396,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "28565067-8697-422e-aecf-ed79eec6dc95",
+        "name": "Cayo",
+        "vatRate": 10
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Flat 1",
+          "purchasePrice": "52500",
+          "rentalPrice": "7000"
+        },
+        {
+          "label": "Flat 1 Non Meublé",
+          "purchasePrice": "61250",
+          "rentalPrice": "7000"
+        },
+        {
+          "label": "Maison Cayo",
+          "purchasePrice": "43750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Petit Appartement 1",
+          "purchasePrice": "200000",
+          "rentalPrice": "10000"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        },
+        {
+          "label": "Petit Appartement 2",
+          "purchasePrice": "215000",
+          "rentalPrice": "10500"
+        }
+      ]
+    },
+    {
+      "id": "36691eb8-b0e4-4368-8897-773fded6e6f8",
+      "title": "MultiPoint Habitation Palomino Avenue",
+      "description": "Palomino Avenue",
+      "x": 1878,
+      "y": 1222,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Appartement 1 Non Meublé",
+          "purchasePrice": "315000",
+          "rentalPrice": "15750"
+        },
+        {
+          "label": "Appartement 2 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 3 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 4 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        }
+      ]
+    },
+    {
+      "id": "606c3a46-79e8-49cd-9778-2b6d6ef52d60",
+      "title": "MultiPoint Garage Palomino Avenue",
+      "description": "Palomino Avenue",
+      "x": 1868,
+      "y": 1220,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "f5bebd1d-d667-4e21-baa3-898a8f27f423",
+      "title": "MultiPoint Garage Palomino Avenue",
+      "description": "Palomino Avenue",
+      "x": 1868,
+      "y": 1220,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "bacd59bb-bd97-4a27-b8e3-474c59a95624",
+      "title": "MultiPoint Garage Palomino Avenue",
+      "description": "Palomino Avenue",
+      "x": 1857,
+      "y": 1213,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Garage 20Pl",
+          "purchasePrice": "262500",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Garage 25 Places",
+          "purchasePrice": "306250",
+          "rentalPrice": "21875"
+        }
+      ]
+    },
+    {
+      "id": "cdd67ddb-a2d4-4a99-b8e3-e9ee32af2d5a",
+      "title": "MultiPoint Garage Palomino Avenue (copie)",
+      "description": "Palomino Avenue",
+      "x": 1933,
+      "y": 1258,
+      "blipType": "garage",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Garage 2 Places",
+          "purchasePrice": "26250",
+          "rentalPrice": "1750"
+        },
+        {
+          "label": "Garage 6 Places",
+          "purchasePrice": "78750",
+          "rentalPrice": "5250"
+        },
+        {
+          "label": "Garage 10Pl (Normal + VIP)",
+          "purchasePrice": "131250",
+          "rentalPrice": "8750"
+        }
+      ]
+    },
+    {
+      "id": "9c667439-feee-4ac6-94f3-4dafd0f5fece",
+      "title": "MultiPoint Habitation Palomino Avenue (copie)",
+      "description": "Palomino Avenue",
+      "x": 1932,
+      "y": 1255,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Appartement 1 Non Meublé",
+          "purchasePrice": "315000",
+          "rentalPrice": "15750"
+        },
+        {
+          "label": "Appartement 2 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 3 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 4 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        }
+      ]
+    },
+    {
+      "id": "f8e10750-fe54-471b-9843-967d8050147b",
+      "title": "7302 San Andreas Avenue",
+      "description": "/",
+      "x": 1983,
+      "y": 1360,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Appartement 1 Non Meublé",
+          "purchasePrice": "315000",
+          "rentalPrice": "15750"
+        },
+        {
+          "label": "Appartement 2 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 3 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 4 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        }
+      ]
+    },
+    {
+      "id": "fcff0182-2ce3-476d-8df9-370ebe9ef913",
+      "title": "San Andreas Avenue & Palomino Avenue",
+      "description": "/",
+      "x": 1946,
+      "y": 1357,
+      "blipType": "habitation",
+      "availability": "disponible",
+      "category": {
+        "id": "ddd99c50-2a5f-495e-85fd-6b191c52c35e",
+        "name": "Sud",
+        "vatRate": 8
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Appartement 1 Non Meublé",
+          "purchasePrice": "315000",
+          "rentalPrice": "15750"
+        },
+        {
+          "label": "Appartement 2 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 3 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Appartement 4 Non Meublé",
+          "purchasePrice": "385000",
+          "rentalPrice": "19250"
+        },
+        {
+          "label": "Petit Appartement 3",
+          "purchasePrice": "230000",
+          "rentalPrice": "11000"
+        },
+        {
+          "label": "Petit Appartement 4 à 6",
+          "purchasePrice": "250000",
+          "rentalPrice": "13000"
+        },
+        {
+          "label": "Petit Appartement Non Meublé 7",
+          "purchasePrice": "120000",
+          "rentalPrice": "6750"
+        }
+      ]
+    },
+    {
+      "id": "fd2fbba6-56df-44ce-b03a-7254f8686f3d",
+      "title": "Multipoint Entrepôt Cayo",
+      "description": "/",
+      "x": 3167,
+      "y": 767,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "28565067-8697-422e-aecf-ed79eec6dc95",
+        "name": "Cayo",
+        "vatRate": 10
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        }
+      ]
+    },
+    {
+      "id": "c1e70420-de6c-4632-8cd4-11f91bbb31e6",
+      "title": "Multipoint Entrepôt Cayo",
+      "description": "/",
+      "x": 3163,
+      "y": 766,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "28565067-8697-422e-aecf-ed79eec6dc95",
+        "name": "Cayo",
+        "vatRate": 10
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        }
+      ]
+    },
+    {
+      "id": "157e33f3-2f87-456b-8541-45229c4e7d91",
+      "title": "Multipoint Entrepôt Cayo Garage",
+      "description": "/",
+      "x": 3442,
+      "y": 450,
+      "blipType": "entrepot",
+      "availability": "disponible",
+      "category": {
+        "id": "28565067-8697-422e-aecf-ed79eec6dc95",
+        "name": "Cayo",
+        "vatRate": 10
+      },
+      "linkedGarage": null,
+      "prices": [
+        {
+          "label": "Entrepôt 500Kg (Carton  ou étagère)",
+          "purchasePrice": "0",
+          "rentalPrice": "8750"
+        },
+        {
+          "label": "Entrepôt 1T",
+          "purchasePrice": "0",
+          "rentalPrice": "17500"
+        },
+        {
+          "label": "Entrepôt 1T Non Meublé",
+          "purchasePrice": "190000",
+          "rentalPrice": "18000"
+        },
+        {
+          "label": "Grand Entrepôt (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Grand Entrepôt Non Meublé (1T500)",
+          "purchasePrice": "262500",
+          "rentalPrice": "61250"
+        },
+        {
+          "label": "Plantation",
+          "purchasePrice": "50000",
+          "rentalPrice": "0"
+        },
+        {
+          "label": "Cave",
+          "purchasePrice": "60000",
+          "rentalPrice": "30000"
+        },
+        {
+          "label": "Black Room",
+          "purchasePrice": "875000",
+          "rentalPrice": "87500"
+        }
+      ]
+    }
+  ],
+  "total": 102
+}

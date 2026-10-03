@@ -1,7 +1,12 @@
 {
-    "genere_le":  "2026-10-03T09:21:05.3007964Z",
-    "nombre":  124,
+    "genere_le":  "2026-10-03T09:37:00.9552552Z",
+    "nombre":  125,
     "fichiers":  [
+                     {
+                         "nom":  "gtav-map.png",
+                         "taille":  1008797,
+                         "empreinte":  "8009BE9C34DD966952C3E7DDFCFE6D8B2BDB338161AC6DD2A0014598407CB262"
+                     },
                      {
                          "nom":  "interieurs.json",
                          "taille":  12112,
